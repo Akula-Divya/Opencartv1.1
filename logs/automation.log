@@ -1,0 +1,15 @@
+12:57:20.466 [main] INFO  testCases.TC001_AccountRegistrationTest - ****StartingTC001_AccountRegistrationTest ****
+12:57:20.580 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+12:57:21.142 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+12:57:21.145 [main] INFO  testCases.TC001_AccountRegistrationTest - providing Customer details
+12:57:22.463 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:57:22.494 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed....
+12:57:22.494 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+12:57:22.496 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished  TC001_AccountRegistrationTest ****
+12:58:34.485 [main] INFO  testCases.TC001_AccountRegistrationTest - ****StartingTC001_AccountRegistrationTest ****
+12:58:34.601 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My account
+12:58:35.162 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Register
+12:58:35.164 [main] INFO  testCases.TC001_AccountRegistrationTest - providing Customer details
+12:58:36.444 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+12:58:36.477 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed....
+12:58:36.478 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
